@@ -53,7 +53,7 @@ Streaming ASR architecture based on Conformer.
 
 ### 📊 Github Stats
 
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nikita-Podlutsky&show_icons=true&theme=radical)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Nikita-Podlutsky&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=f0f6fc&text_color=c9d1d9)
 ![Github top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nikita-Podlutsky&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
